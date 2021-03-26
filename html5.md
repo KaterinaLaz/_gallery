@@ -1,7 +1,7 @@
 ---
 author: KaterinaLaz
 title: html5 
-image_url: /images/html5-thumb.png
+image_url: /images/html5.png
 caption: 'Αποτελεί την πέμπτη έκδοση της html και προσφέρει πλούσιες δυνατότητες στην προσθήκη πολυμεσικού περιεχομένου στις ιστοσελίδες. Συγκεκριμένα, ο χρήστης μπορεί να προσθέσει εικόνα, ήχο , βίντεο και σχεδιοκίνηση. ' 
 year: 2014
 title: html5  
